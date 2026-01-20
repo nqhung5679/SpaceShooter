@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Wave.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\LevelController.cs" />
     <Compile Include="Assets\Scenes\Space Shooter Template FREE\Scripts\Bonus.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\ShowLog.cs" />
     <Compile Include="Assets\Blinking.cs" />
   </ItemGroup>
